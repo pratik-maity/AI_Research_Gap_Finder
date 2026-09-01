@@ -8,7 +8,7 @@ A lightweight research-literature analysis demo that compares multiple public ar
 
 Run the project on **Streamlit Community Cloud**:
 
-https://share.streamlit.io/
+https://ai-research-gap-finder-app-bypratik.streamlit.app/
 
 The app can be deployed directly from this GitHub repository.
 
